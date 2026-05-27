@@ -1,0 +1,8 @@
+body{
+    background-color:bisque;
+}
+/* this is a comment in CSS */
+/* to target all parargraphs make a rule for p */
+p{color:crimson;} /* "color" means text color in this instance */
+h1{color: limegreen;}
+h3{color: brown;}
